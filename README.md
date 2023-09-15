@@ -1,4 +1,4 @@
-# dc-casino
+# ESX version of dc-casino
 In a perfect world where things are free and people would actually help open source projects.
 
 ## Needs Testing
